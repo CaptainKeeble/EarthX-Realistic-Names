@@ -1,0 +1,19 @@
+Boeing
+Airbus
+Locheed Martin
+Northrop Grumman
+Maxar Space
+CONAE
+Canadian Space Agency
+PT Pasifik Satelit Nusantara
+Es'hailSat
+Telesat
+Telkomsat
+SiriusXM
+SES S.A
+NASA
+Turksat A.S
+NOAA
+ORBCOMM
+AsiaSat
+KT SAT
